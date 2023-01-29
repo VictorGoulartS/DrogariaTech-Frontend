@@ -1,0 +1,23 @@
+<h1 class="text-center">Nossas Lojas</h1>
+<body>
+  <div class="container">
+    <div class="row gy-3 my-3">
+      <div class="col-sm-6 col-md-4 col-lg-3" *ngFor="let loj of lojas">
+        <div class="card">
+          <img
+            src="/assets/{{ loj.imagemLoja }}"
+            class="card-image-top"
+            alt="image"
+            style="width: 100%; height: 200px"
+          />
+          <div class="card-body">
+            <h2 class="card-title">
+              {{ loj.endereco }}
+            </h2>
+            <h4>Contato: {{ loj.telefone }}</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>

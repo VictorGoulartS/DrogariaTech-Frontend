@@ -1,0 +1,32 @@
+<h1 class="text-center">Produto detalhes</h1>
+<body>
+  <div *ngIf="produto !== undefined">
+    <div class="container">
+      <div class="row mt-4">
+        <div class="col-lg-5 col-md-12 col-12">
+          <img
+            class="img-fluid w-100"
+            src="/assets/{{ produto.imagemProduto }}"
+            alt=""
+          />
+        </div>
+
+        <div class="col-lg-6 col-md-12 col-12">
+          <h3 style="color: green">Nome Científico:</h3>
+          <p style="font-size: 1.3em; font-style: italic">
+            {{ produto.nomeCientifico }}
+          </p>
+          <h3 style="color: green">Nomes conhecidos:</h3>
+          <p></p>
+          <p>{{ produto.nomesPopulares }}</p>
+          <h3 style="color: green">Indicação:</h3>
+          <p></p>
+          <p>{{ produto.beneficios }}</p>
+          <h3 style="color: green">Características:</h3>
+          <p></p>
+          <p>{{ produto.descricao }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>

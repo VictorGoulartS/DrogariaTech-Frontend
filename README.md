@@ -1,1 +1,1 @@
-# DrogariaTech Frontend
+# DrogariaTech

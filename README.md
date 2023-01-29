@@ -7,10 +7,11 @@ Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso co
 ###### Reposítorio do back-end do projeto: 
 
 ### Projeto em funcionamento:
-
+<div>
+<img src="gif.gif">
+</div>
 
 ## Front-end
-
 ### Para rodar o projeto:
 
 Executar comandos indicados no repositório de <a>back-end</a>.

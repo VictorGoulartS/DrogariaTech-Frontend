@@ -14,10 +14,37 @@ Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso co
 ## Front-end
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
-### Para rodar o projeto:
+### Instruções:
 
 Executar comandos indicados no repositório de <a href="https://github.com/VictorGoulartS/DrogariaTech_Backend">back-end</a>.
 
 Executar o comando `npm install` para instalar todas as dependências do projeto.
 
 Executador o comando `ng serve`, e abrir no navegador no endereço `http://localhost:4200/`.
+
+## ✨ Tecnologias utilizadas:
+<h3>Front-end</h3>
+<div>
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+</div>
+
+<h3>Back-end</h3>
+<div>
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+</div>
+
+<h3>Banco de Dados</h3>
+<div>
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+</div>
+
+<h3>Ferramentas</h3>
+<div>
+  <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+</div>

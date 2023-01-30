@@ -12,6 +12,8 @@ Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso co
 </div>
 
 ## Front-end
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+
 ### Para rodar o projeto:
 
 Executar comandos indicados no repositório de <a href="https://github.com/VictorGoulartS/DrogariaTech_Backend">back-end</a>.

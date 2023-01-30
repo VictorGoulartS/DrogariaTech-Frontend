@@ -4,7 +4,7 @@ A DrogariaTech foi um projeto exigido durante o curso Análise e Desenvolvimento
 
 Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso contribui gradativamente para uma melhor qualidade de vida. Buscando proporcionar uma vida saudável a seus clientes através de seus produtos, foi-se criada a DrogariaTech. O sistema DrogariaTech tem o objetivo de divulgar a loja, catalogando os produtos os quais são vendidos e divulgando o local e contato do estabelecimento.
 
-###### Reposítorio do back-end do projeto: 
+###### Reposítorio do back-end do projeto: https://github.com/VictorGoulartS/DrogariaTech_Backend
 
 ### Projeto em funcionamento:
 <div>
@@ -14,7 +14,7 @@ Nos dias atuais o uso de produtos naturais é uma questão de saúde, seu uso co
 ## Front-end
 ### Para rodar o projeto:
 
-Executar comandos indicados no repositório de <a>back-end</a>.
+Executar comandos indicados no repositório de <a href="https://github.com/VictorGoulartS/DrogariaTech_Backend">back-end</a>.
 
 Executar o comando `npm install` para instalar todas as dependências do projeto.
 

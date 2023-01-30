@@ -22,6 +22,8 @@ Executar o comando `npm install` para instalar todas as dependências do projeto
 
 Executador o comando `ng serve`, e abrir no navegador no endereço `http://localhost:4200/`.
 
+---
+
 ## ✨ Tecnologias utilizadas:
 <h3>Front-end</h3>
 <div>

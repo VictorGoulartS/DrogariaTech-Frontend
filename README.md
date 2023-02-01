@@ -49,5 +49,5 @@ Executador o comando `ng serve`, e abrir no navegador no endereço `http://local
 <h3>Ferramentas</h3>
 <div>
   <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>

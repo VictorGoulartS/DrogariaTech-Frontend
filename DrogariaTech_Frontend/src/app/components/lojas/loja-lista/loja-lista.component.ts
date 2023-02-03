@@ -1,14 +1,3 @@
-/*import { Component } from '@angular/core';
-
-@Component({
-  selector: 'app-loja-lista',
-  templateUrl: './loja-lista.component.html',
-  styleUrls: ['./loja-lista.component.css']
-})
-export class LojaListaComponent {
-
-}*/
-
 import { Component, OnInit } from '@angular/core';
 import { Loja } from './../loja.model';
 import { LojaService } from './../loja.service';
